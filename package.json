@@ -1,0 +1,24 @@
+{
+  "name": "quill-bot",
+  "version": "1.0.0",
+  "description": "QuillBot's paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuillBot.git"
+  },
+  "keywords": [
+    "QuillBot",
+    "meanii",
+    "AI",
+    "server-less"
+  ],
+  "author": " <https://github.com/meanii>",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.8.5"
+  }
+}
